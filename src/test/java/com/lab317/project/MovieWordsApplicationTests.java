@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) Lab317, Inc All Rights Reserved.
+ */
+
 package com.lab317.project;
 
 import org.junit.Test;

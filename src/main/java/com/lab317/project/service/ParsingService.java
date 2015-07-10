@@ -1,5 +1,5 @@
-/**
- * Copyright (c) eBizprise, Inc All Rights Reserved.
+/*
+ * Copyright (c) Lab317, Inc All Rights Reserved.
  */
 package com.lab317.project.service;
 

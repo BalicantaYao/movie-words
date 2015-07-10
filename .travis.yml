@@ -5,3 +5,6 @@ script: mvn test
 
 after_success:
   - mvn clean cobertura:cobertura org.eluder.coveralls:coveralls-maven-plugin:cobertura
+
+notifications:
+  slack: lab3l7:wE9ADJd0cqtKxwklAe9AY5sz
